@@ -1,4 +1,4 @@
-![Calcautor](https://github.com/saishriya4/Landing-page-OIBSIP/assets/112546603/ce5a4765-6407-4b0d-a345-6a8e0bc38bf8)
+
 
  Oasis Infobyte intern in web programming and design.
 
