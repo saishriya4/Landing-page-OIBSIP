@@ -1,3 +1,5 @@
+![Calcautor](https://github.com/saishriya4/Landing-page-OIBSIP/assets/112546603/ce5a4765-6407-4b0d-a345-6a8e0bc38bf8)
+
  Oasis Infobyte intern in web programming and design.
 
 I was chosen for the batch of June 2023. This internship lasted for one month. This internship gave me an opportunity to use my web development skills build real world applications. This internship also gave an opportunity to enhance my skills and my resume. 
